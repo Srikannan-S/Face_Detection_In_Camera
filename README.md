@@ -45,8 +45,9 @@ This Python project uses OpenCV and Haar Cascade to detect faces in real-time th
 - Continues detecting until you press the `Esc` key.  
 
 📂 Project Structure
-
+```bash
 📁 realtime-face-detection  
 ├── app.py                        # Main Python script  
 ├── haarcascade_frontalface_default.xml  # Face detection model  
-└── README.md                     # Project documentation  
+└── README.md                     # Project documentation
+```
